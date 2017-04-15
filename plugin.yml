@@ -1,0 +1,8 @@
+name: CustomBan
+author: MrThePanda
+version: 1.0
+main: me.numskullz.customban.CustomBan
+description: A custom ban plugin
+commands:
+  cb:
+    description: CustomBan GUI
